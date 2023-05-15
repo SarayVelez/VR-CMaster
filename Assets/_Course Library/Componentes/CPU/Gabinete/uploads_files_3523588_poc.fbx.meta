@@ -1,83 +1,38 @@
 fileFormatVersion: 2
-guid: 98880e3f391ef1a4681faf6dcbd86c16
+guid: b492c556f9d4cc34c9b90cfcd9cf15e2
 ModelImporter:
-  serializedVersion: 20300
+  serializedVersion: 20200
   internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_glassMat
-    second: {fileID: 2100000, guid: 44aeaeee040daa041a96b5f05a81d33e, type: 2}
+      name: Material.003
+    second: {fileID: 2100000, guid: b6216ab3d6f4e5e4fb7caa443bacd96c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_greenMat
-    second: {fileID: 2100000, guid: 532faa6f1045db1498f08eee8a594a3b, type: 2}
+      name: MetalStainlessSteelBrushedElongated005_3K
+    second: {fileID: 2100000, guid: eb4ea42ae6b9d4b469295842c0e868fb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_legsMat
-    second: {fileID: 2100000, guid: 54e55cb3c56d9c24a889cdcacb1b6faf, type: 2}
+      name: MetalStainlessSteelBrushedElongated005_3K.001
+    second: {fileID: 2100000, guid: 92ad555a7e54e744c90ee5a97304b38b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_low_batteryMat
-    second: {fileID: 2100000, guid: 2172f19868e2d6145a5ca56e4238049f, type: 2}
+      name: fancolor
+    second: {fileID: 2100000, guid: 20e7476005ef0fd49b472aad81a05e2d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_mouseMIMat
-    second: {fileID: 2100000, guid: 19df167130c5c5c4281b35e8cdd5c153, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_orangeMat
-    second: {fileID: 2100000, guid: 69855e30dcbe89a4184790ede1a5dc2d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_plasticMat
-    second: {fileID: 2100000, guid: 370ef4dc4d6628f4e91d9dcf04949ecd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_rough_steelMat
-    second: {fileID: 2100000, guid: a6085752f99e8574eb7832fb8647d6a1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_steelMat
-    second: {fileID: 2100000, guid: cd8fc60051183d04da88ba23e91a9d90, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_brassMat
-    second: {fileID: 2100000, guid: 67cd151cf497f8642b7ee76963f38b04, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_mouseMIMat
-    second: {fileID: 2100000, guid: 1db5b175029a989458656180dbd17202, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_plasticMat
-    second: {fileID: 2100000, guid: d064e5385ae588d4a80cd445128dce4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_steelMat
-    second: {fileID: 2100000, guid: 5363b947277acc3438f8829dd2db2451, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_usb_backMat
-    second: {fileID: 2100000, guid: a9e3fc9351f967d43afad8d2ad39a217, type: 2}
+      name: light
+    second: {fileID: 2100000, guid: 1b75ad2623766ad47b6b036122794af4, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 2
-    materialSearch: 2
+    materialName: 0
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -166,7 +121,6 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

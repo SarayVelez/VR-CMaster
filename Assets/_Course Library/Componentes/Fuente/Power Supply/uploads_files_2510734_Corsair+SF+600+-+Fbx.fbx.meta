@@ -1,83 +1,88 @@
 fileFormatVersion: 2
-guid: 98880e3f391ef1a4681faf6dcbd86c16
+guid: 9ca7ae32c9f8d27438f7e3ba87f6d752
 ModelImporter:
-  serializedVersion: 20300
+  serializedVersion: 20200
   internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_glassMat
-    second: {fileID: 2100000, guid: 44aeaeee040daa041a96b5f05a81d33e, type: 2}
+      name: Black Plastic
+    second: {fileID: 2100000, guid: c29854b4465f3f2478956551e5fc9bb5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_greenMat
-    second: {fileID: 2100000, guid: 532faa6f1045db1498f08eee8a594a3b, type: 2}
+      name: Blue Plastic
+    second: {fileID: 2100000, guid: 8994107024a7fbe479462c3eca6a1b95, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_legsMat
-    second: {fileID: 2100000, guid: 54e55cb3c56d9c24a889cdcacb1b6faf, type: 2}
+      name: Bronze
+    second: {fileID: 2100000, guid: d85be4c46d649c54485d525883f2b6fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_low_batteryMat
-    second: {fileID: 2100000, guid: 2172f19868e2d6145a5ca56e4238049f, type: 2}
+      name: Connectors Material
+    second: {fileID: 2100000, guid: 37581adbd9c2b224c8ccc3d31637e677, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_mouseMIMat
-    second: {fileID: 2100000, guid: 19df167130c5c5c4281b35e8cdd5c153, type: 2}
+      name: Connectors Metal
+    second: {fileID: 2100000, guid: 5041cbcacdc693b428b771a7ac15aade, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_orangeMat
-    second: {fileID: 2100000, guid: 69855e30dcbe89a4184790ede1a5dc2d, type: 2}
+      name: Corsair Logo
+    second: {fileID: 2100000, guid: 1d6f2cd0fbd9a604596e234c1e8ecfb2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_plasticMat
-    second: {fileID: 2100000, guid: 370ef4dc4d6628f4e91d9dcf04949ecd, type: 2}
+      name: Fan Fins
+    second: {fileID: 2100000, guid: d22cf6811a28be947b354d7d7926ff06, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_rough_steelMat
-    second: {fileID: 2100000, guid: a6085752f99e8574eb7832fb8647d6a1, type: 2}
+      name: Fan center
+    second: {fileID: 2100000, guid: 3758a42f5f4175d4bbf8391387eb5369, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mouse_Mesh_steelMat
-    second: {fileID: 2100000, guid: cd8fc60051183d04da88ba23e91a9d90, type: 2}
+      name: Front logo
+    second: {fileID: 2100000, guid: 8b08944a946fff8458c180a4cb3fde9d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_brassMat
-    second: {fileID: 2100000, guid: 67cd151cf497f8642b7ee76963f38b04, type: 2}
+      name: Main Material
+    second: {fileID: 2100000, guid: 4677878124a9c64448802227e3847687, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_mouseMIMat
-    second: {fileID: 2100000, guid: 1db5b175029a989458656180dbd17202, type: 2}
+      name: Metal Grid
+    second: {fileID: 2100000, guid: 9abcd6536847f7445b09b6b8f93aef8b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_plasticMat
-    second: {fileID: 2100000, guid: d064e5385ae588d4a80cd445128dce4d, type: 2}
+      name: Power Metal
+    second: {fileID: 2100000, guid: 0a20b4a22fef3f646a6090aa5fe145c0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_steelMat
-    second: {fileID: 2100000, guid: 5363b947277acc3438f8829dd2db2451, type: 2}
+      name: SF 600
+    second: {fileID: 2100000, guid: d0fe35f615d312041852f53f766bd055, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: usb_Mesh.001_usb_backMat
-    second: {fileID: 2100000, guid: a9e3fc9351f967d43afad8d2ad39a217, type: 2}
+      name: Screw Metal
+    second: {fileID: 2100000, guid: 2ad847e67d614fc4fa43818456310376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Plastic
+    second: {fileID: 2100000, guid: 5daff8e0b3fed56478ec5ab0d06a4e08, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 2
-    materialSearch: 2
+    materialName: 0
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -166,7 +171,6 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
