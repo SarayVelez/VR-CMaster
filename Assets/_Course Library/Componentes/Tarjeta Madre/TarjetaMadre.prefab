@@ -12719,9 +12719,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3955454569144912467}
+  - component: {fileID: 5761722675673980428}
   - component: {fileID: 4286654889167366285}
   - component: {fileID: 1102477193689604108}
-  - component: {fileID: 5761722675673980428}
   m_Layer: 0
   m_Name: TarjetaMadre
   m_TagString: Untagged
@@ -12994,6 +12994,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5761722675673980428
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4825775549509749034}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.26515853, y: 0.406477, z: 1}
+  m_Center: {x: 0.07065799, y: 0.028289482, z: 1.8942462e-17}
 --- !u!54 &4286654889167366285
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13115,19 +13128,6 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
---- !u!65 &5761722675673980428
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4825775549509749034}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.26515853, y: 0.406477, z: 1}
-  m_Center: {x: 0.07065799, y: 0.028289482, z: 1.8942462e-17}
 --- !u!1 &4830364346575445721
 GameObject:
   m_ObjectHideFlags: 0

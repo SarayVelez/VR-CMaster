@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Bios
   - Water
   - UI
-  - Procesador
+  - Procesador1
   - MemoriaRam
   - DiscoDuro
   - TarjetaGrafica
@@ -21,7 +21,7 @@ TagManager:
   - Ventilador
   - TarjetaMadre
   - Gabinete
-  - 
+  - Procesador2
   - 
   - 
   - 
