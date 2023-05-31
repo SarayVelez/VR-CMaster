@@ -8283,7 +8283,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: solo dd3
+  m_Text: ' N/A'
 --- !u!222 &517143952
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10956,7 +10956,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: temperatura en numero
+  m_Text: ' N/A'
 --- !u!222 &645445829
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11318,9 +11318,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'en gbs
-
-'
+  m_Text: ' N/A'
 --- !u!222 &676436064
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15833,9 +15831,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'es un numero en hrz
-
-'
+  m_Text: ' N/A'
 --- !u!222 &1053138097
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18942,9 +18938,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'volts fuente
-
-'
+  m_Text: ' N/A'
 --- !u!222 &1236692179
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19337,14 +19331,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f77bf065299c6604bbfa7e123296282a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ramSocketColliderUno: {fileID: 1771812772}
-  ramSocketColliderDos: {fileID: 1932746747}
-  procSocketCollider: {fileID: 1969022625}
-  hddSocketCollider: {fileID: 750070244}
-  fuenteSocketCollider: {fileID: 750070243}
-  gpuSocketCollider: {fileID: 603155043}
-  motherSocketCollider: {fileID: 750070242}
   resultText: {fileID: 1053138096}
+  isRamUnoEncajada: 0
+  isRamDosEncajada: 0
+  isProc1Encajado: 0
+  isProc2Encajado: 0
+  isGpuEncajado: 0
+  isMotEncajado: 0
+  isFontEncajado: 0
+  isDiscEncajado: 0
 --- !u!4 &1271037848
 Transform:
   m_ObjectHideFlags: 0
@@ -21665,7 +21660,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: en numero
+  m_Text: ' N/A'
 --- !u!222 &1381668634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24182,7 +24177,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: modelo y gbs
+  m_Text: ' N/A'
 --- !u!222 &1551059765
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24261,9 +24256,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'en gbs
-
-'
+  m_Text: ' N/A'
 --- !u!222 &1553240002
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31973,7 +31966,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: modeloplaca
+  m_Text: ' N/A'
 --- !u!222 &2086344883
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32431,7 +32424,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Malo/Bueno
+  m_Text: Unknown
 --- !u!222 &2109218369
 CanvasRenderer:
   m_ObjectHideFlags: 0
