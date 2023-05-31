@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Walls
+  - room
+  - RAM
+  - PROC1
+  - PROC2
+  - HDD
+  - FONT
+  - GPU
+  - MOT
   layers:
   - Default
   - TransparentFX

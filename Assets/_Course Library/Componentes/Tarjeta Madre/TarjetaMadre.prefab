@@ -12722,6 +12722,7 @@ GameObject:
   - component: {fileID: 5761722675673980428}
   - component: {fileID: 4286654889167366285}
   - component: {fileID: 1102477193689604108}
+  - component: {fileID: -7768800601980812037}
   m_Layer: 0
   m_Name: TarjetaMadre
   m_TagString: Untagged
@@ -13128,6 +13129,20 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
+--- !u!114 &-7768800601980812037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4825775549509749034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f8822da65938c4dabf839541eeb891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiateObjects: {fileID: 0}
+  socket: {fileID: 0}
 --- !u!1 &4830364346575445721
 GameObject:
   m_ObjectHideFlags: 0
@@ -21125,7 +21140,7 @@ MonoBehaviour:
   m_InteractionManager: {fileID: 0}
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 65600
   m_AttachTransform: {fileID: 6629566942222375235}
   m_StartingSelectedInteractable: {fileID: 0}
   m_HoverEntered:

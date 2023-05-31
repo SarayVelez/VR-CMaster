@@ -9392,6 +9392,7 @@ GameObject:
   - component: {fileID: -5428584605591419204}
   - component: {fileID: 143226179848403223}
   - component: {fileID: 2779874505694299439}
+  - component: {fileID: -3684454238742680034}
   m_Layer: 0
   m_Name: Teclado
   m_TagString: Untagged
@@ -9573,7 +9574,7 @@ MonoBehaviour:
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 65536
+    m_Bits: 131072
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -9662,6 +9663,20 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
+--- !u!114 &-3684454238742680034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4672037092114804478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f8822da65938c4dabf839541eeb891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiateObjects: {fileID: 0}
+  socket: {fileID: 0}
 --- !u!1 &5122265686179474807
 GameObject:
   m_ObjectHideFlags: 0

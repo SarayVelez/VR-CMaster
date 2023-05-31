@@ -822,6 +822,7 @@ GameObject:
   - component: {fileID: 723355768604558921}
   - component: {fileID: 2380368137289737727}
   - component: {fileID: 3067946398322790214}
+  - component: {fileID: 7913190664074410705}
   m_Layer: 0
   m_Name: Mouse2
   m_TagString: Untagged
@@ -991,6 +992,20 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
+--- !u!114 &7913190664074410705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4620384652032774425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f8822da65938c4dabf839541eeb891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiateObjects: {fileID: 0}
+  socket: {fileID: 0}
 --- !u!1 &4966089460330170637
 GameObject:
   m_ObjectHideFlags: 0

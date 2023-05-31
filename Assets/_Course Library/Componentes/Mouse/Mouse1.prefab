@@ -239,6 +239,7 @@ GameObject:
   - component: {fileID: 994816569320113631}
   - component: {fileID: -2811265966973857977}
   - component: {fileID: 7873945508359280369}
+  - component: {fileID: -8461877327464948050}
   m_Layer: 0
   m_Name: Mouse1
   m_TagString: Untagged
@@ -395,6 +396,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.09011686, y: 0.03761673, z: 0.15121153}
   m_Center: {x: -0.0016903877, y: 0.020968437, z: 0.0022781156}
+--- !u!114 &-8461877327464948050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415972709017475007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f8822da65938c4dabf839541eeb891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiateObjects: {fileID: 0}
+  socket: {fileID: 0}
 --- !u!1 &1396892978468777665
 GameObject:
   m_ObjectHideFlags: 0

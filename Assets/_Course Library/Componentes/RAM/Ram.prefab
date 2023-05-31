@@ -150,6 +150,7 @@ GameObject:
   - component: {fileID: 6770972689784167462}
   - component: {fileID: 4384971453959461876}
   - component: {fileID: 6950507544267742221}
+  - component: {fileID: -4588840506445415719}
   m_Layer: 0
   m_Name: Ram
   m_TagString: Untagged
@@ -309,6 +310,20 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
+--- !u!114 &-4588840506445415719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138108342564032679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f8822da65938c4dabf839541eeb891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiateObjects: {fileID: 0}
+  socket: {fileID: 0}
 --- !u!1 &6172260852595177560
 GameObject:
   m_ObjectHideFlags: 0
